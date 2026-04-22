@@ -1,0 +1,6 @@
+{
+  "name": "HealthConnect Mobile Prototype",
+  "description": "A cross-platform HealthTech application prototype integrating OpenMRS for EMR data and Jitsi for secure telemedicine consultations.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["EMR Integration", "Telemedicine", "Biometric Auth Layout"]
+}
